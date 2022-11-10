@@ -2,7 +2,6 @@
 ![Register_Page](src/img/ApplicationImages/BChat-register.png)
 ![Home_Page](src/img/ApplicationImages/BChat-1.png)
 ![Home_Page](src/img/ApplicationImages/BChat-2.png)
-![Home_Page](src/img/ApplicationImages/BChat-3.png)
 
 # Getting Started with Create React App
 
